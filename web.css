@@ -1,0 +1,34 @@
+@charset "utf-8";
+.center{
+    text-align: center;
+}
+
+#theUS{
+    margin-right: auto;
+    list-style: none;
+    background-color: crimson;
+}
+
+#Phillipines{
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+    background-color: #FF1100;
+}
+
+#malaysia{
+    margin-right: auto;
+    background-color: darkorange;
+}
+#question{
+    list-style: none;
+    background-color: cornsilk;
+    margin-right: auto;
+}
+
+input[type="submit"]
+{
+    border: 4px solid;
+    border-radius: 4px;
+    color: black;
+}
